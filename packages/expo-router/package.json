@@ -102,7 +102,7 @@
     "@expo/metro-runtime": "3.0.2",
     "@radix-ui/react-slot": "1.0.1",
     "@react-navigation/bottom-tabs": "~6.5.7",
-    "@react-navigation/native": "~6.1.6",
+    "@react-navigation/native": "~7.0.14",
     "@react-navigation/native-stack": "~6.9.12",
     "expo-splash-screen": "0.23.1",
     "query-string": "7.1.3",
